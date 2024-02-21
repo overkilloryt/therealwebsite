@@ -1,4 +1,4 @@
-title: My page
+title: Bedwars FUCKA
 type: landing
 
 sections:
@@ -8,7 +8,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: 'January 2007'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
 ---
